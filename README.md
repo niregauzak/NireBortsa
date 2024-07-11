@@ -1,4 +1,7 @@
 Exekutatu behar den fitxeroa: 06-Multiple.py
+
+Requirements.txt sortzeko. Fitxeroa dagoen direktorioan, exekutatu: pipreqs .
+
 Bertan Streamlit-en Multipage dago.
 Beraz, rruan, beste python fitxero batzuk irakurtzen ditu. 
 Fitxero hauek pages karpetaren barruan daude.
